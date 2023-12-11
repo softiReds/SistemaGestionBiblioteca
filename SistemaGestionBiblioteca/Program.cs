@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Mvc;
+using SistemaGestionBiblioteca.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,7 +10,16 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddSqlServer<GestionBibliotecaContext>(builder.Configuration.GetConnectionString("LocalConnection"));
+
 var app = builder.Build();
+
+app.MapGet("/", async([FromServices] GestionBibliotecaContext context) =>
+{
+    context.Database.EnsureCreated();
+
+    return Results.Ok();
+});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
