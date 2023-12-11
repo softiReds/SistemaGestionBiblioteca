@@ -10,5 +10,6 @@
         public int TipoUsuarioId { get; set; }
 
         public virtual TipoUsuario TipoUsuario { get; set; }
+        public virtual ICollection<Reserva> Reservas { get; set; }
     }
 }
