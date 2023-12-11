@@ -7,14 +7,10 @@
         public int UsuarioId {  get; set; }
         public DateTime FechaReserva {  get; set; }
         public DateTime FechaDevolucion { get; set; }
-        public EstadoReserva Estado { get; set; }
-    }
+        public int EstadoReservaId { get; set; }
 
-    public enum EstadoReserva
-    {
-        Pendiente,
-        Activada,
-        Vencida,
-        Devuelta
+        public virtual Libro Libro { get; set; }
+        public virtual Usuario Usuario { get; set; }
+        public virtual EstadoReserva EstadoReserva { get; set; }
     }
 }

@@ -1,8 +1,8 @@
 ﻿namespace SistemaGestionBiblioteca.Models
 {
-    public class TipoUsuario
+    public class EstadoReserva
     {
-        public int TipoUsuarioId { get; set; }
+        public int EstadoReservaId { get; set; }
         public string Descripcion { get; set; }
     }
 }
