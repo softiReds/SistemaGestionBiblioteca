@@ -16,6 +16,11 @@ namespace SistemaGestionBiblioteca.Context
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            List<Autor> autoresInit = new List<Autor>()
+            {
+                new Autor() {AutorId = Guid.Parse("fbc6b60e-2626-4f6f-9b0b-01c787bf6551"), Nombre = "EJEMPLO"}
+            };
+
             builder.Entity<Autor>(autor =>
             {
                 autor.ToTable("Autor");
