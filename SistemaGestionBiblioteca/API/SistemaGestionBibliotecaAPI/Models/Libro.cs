@@ -9,5 +9,6 @@
         public DateTime FechaPublicacion { get; set; }
 
         public virtual Autor Autor { get; set; }
+        public virtual ICollection<Reserva> Reservas { get; set; }
     }
 }
