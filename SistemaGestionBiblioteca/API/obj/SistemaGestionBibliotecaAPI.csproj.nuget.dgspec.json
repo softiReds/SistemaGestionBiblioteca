@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBibliotecaAPI.csproj": {}
+    "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\API\\SistemaGestionBibliotecaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBibliotecaAPI.csproj": {
+    "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\API\\SistemaGestionBibliotecaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBibliotecaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\API\\SistemaGestionBibliotecaAPI.csproj",
         "projectName": "SistemaGestionBibliotecaAPI",
-        "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBibliotecaAPI.csproj",
+        "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\API\\SistemaGestionBibliotecaAPI.csproj",
         "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\obj\\",
+        "outputPath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config",

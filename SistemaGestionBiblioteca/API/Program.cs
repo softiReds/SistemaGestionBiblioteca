@@ -14,13 +14,6 @@ builder.Services.AddSqlServer<GestionBibliotecaContext>(builder.Configuration.Ge
 
 var app = builder.Build();
 
-app.MapGet("/", async([FromServices] GestionBibliotecaContext context) =>
-{
-    context.Database.EnsureCreated();
-
-    return Results.Ok();
-});
-
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

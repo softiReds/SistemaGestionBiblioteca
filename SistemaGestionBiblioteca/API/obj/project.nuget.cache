@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wM6L++lVYGzzP2TgYphb1BWSzf8ArxC/UcfhSI8Y0f4aqPNv6xA+K4MoWtlGnsSs5LMXg0TOLdtKAgB2KmPRVg==",
+  "dgSpecHash": "FtIcZQD2b6CW+gdmkO2L2Hh8mADIbNTpVJ9HfouH40ZYzK1q8+Z/sdONsfrE1hzRTRwEx1XugsXApgwieiw8lA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBibliotecaAPI.csproj",
+  "projectFilePath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\API\\SistemaGestionBibliotecaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
