@@ -2,12 +2,12 @@
 {
     public class Reserva
     {
-        public int ReservaId { get; set; }
-        public int LibroId {  get; set; }
-        public int UsuarioId {  get; set; }
+        public Guid ReservaId { get; set; }
+        public Guid LibroId {  get; set; }
+        public Guid UsuarioId {  get; set; }
         public DateTime FechaReserva {  get; set; }
         public DateTime FechaDevolucion { get; set; }
-        public int EstadoReservaId { get; set; }
+        public Guid EstadoReservaId { get; set; }
 
         public virtual Libro Libro { get; set; }
         public virtual Usuario Usuario { get; set; }

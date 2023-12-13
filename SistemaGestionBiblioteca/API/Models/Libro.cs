@@ -2,9 +2,9 @@
 {
     public class Libro
     {
-        public int LibroId { get; set; }
+        public Guid LibroId { get; set; }
         public string Titulo {  get; set; }
-        public int AutorId {  get; set; }
+        public Guid AutorId {  get; set; }
         public int CantidadDisponible { get; set; }
         public DateTime FechaPublicacion { get; set; }
 
