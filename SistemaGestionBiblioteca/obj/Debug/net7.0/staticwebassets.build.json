@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "zWILVEnH5hOAbYpnG9zvd96X/RCERj1xlxcI3xVFuME=",
-  "Source": "SistemaGestionBiblioteca",
-  "BasePath": "_content/SistemaGestionBiblioteca",
+  "Hash": "R8Q5iPGltmCD2qHs26Kd5sqwn3KMwjSj6TSekHgxKVk=",
+  "Source": "SistemaGestionBibliotecaAPI",
+  "BasePath": "_content/SistemaGestionBibliotecaAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

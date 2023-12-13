@@ -3888,9 +3888,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca.csproj",
-      "projectName": "SistemaGestionBiblioteca",
-      "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBibliotecaAPI.csproj",
+      "projectName": "SistemaGestionBibliotecaAPI",
+      "projectPath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\SistemaGestionBibliotecaAPI.csproj",
       "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\santi\\OneDrive\\Documentos\\SantiagoRojas\\Estudio\\Proyectos\\C#\\SistemaGestionBiblioteca\\SistemaGestionBiblioteca\\obj\\",
       "projectStyle": "PackageReference",
